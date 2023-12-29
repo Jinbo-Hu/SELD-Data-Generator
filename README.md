@@ -29,7 +29,9 @@ python make_dataset.py 1
 
 FOA Converter has not yet fully completed. We will also release codes of this part as soon as possible.
 
-## Reference
+## Cite
+
+Please consider citing our paper if you find this code useful for your research.
 
 [1] Jinbo Hu, Yin Cao, Ming Wu, Qiuqiang Kong, Feiran Yang, Mark D. Plumbley, and Jun Yang, "Selective-Memory Meta-Learning with Environment Representations for Sound Event Localization and Detection" *arXiv* *preprint* *arXiv*:2312.16422, 2023. [URL](https://arxiv.org/abs/2312.16422)
 
